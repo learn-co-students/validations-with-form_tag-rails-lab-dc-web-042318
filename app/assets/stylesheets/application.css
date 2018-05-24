@@ -19,3 +19,9 @@
   background-color: red;
   display: table;
 }
+
+#error_explanation {
+  background-color: pink;
+  padding: 10px;
+  color: red;
+}
